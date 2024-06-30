@@ -1,3 +1,4 @@
+import default from
 export default {
     // Temp fonts
     fonts: {
